@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @workingNerd93
-- 👀 I’m interested in RnD projects, Embedded developing, Electronics, 
+- 👀 I’m interested in IoT projects, Embedded developing, Electronics and creating new stuff
 - 🌱 I’m currently learning C# and .NET
 
 
